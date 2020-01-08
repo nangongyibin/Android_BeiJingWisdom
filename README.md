@@ -321,7 +321,7 @@ ViewPagerIndicator即ViewPager的页面指示器,如果要你自己写一个View
 
 #### SlidingMenu Demo的展示 ####
 
-![](https://github.com/nangongyibin7219/Android_BeijingWisdom/blob/master/picture/5.png?raw=true)
+![](https://github.com/nangongyibin/Android_BeiJingWisdom/blob/master/picture/5.png?raw=true)
 
 
 #### SlindingMenu集成 ####
@@ -889,7 +889,7 @@ Volley 是 Goole I/O 2013上发布的网络通信库，使网络通信更快、�
 
 # Volley工作流程 #
 
-![](https://github.com/nangongyibin7219/Android_BeijingWisdom/blob/master/picture/8.png?raw=true)
+![](https://github.com/nangongyibin/Android_BeiJingWisdom/blob/master/picture/8.png?raw=true)
 
 1. 线程管理
 2. 缓存的管理
