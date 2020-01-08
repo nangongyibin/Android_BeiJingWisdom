@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/tab_page_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/bottom_tab_bg"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/tab_home"
+            android:drawableTop="@drawable/tab_home_selector"
+            style="@style/SmartBJTabStyle"
+            android:text="@string/sy"/>
+        <RadioButton
+            android:id="@+id/tab_news_center"
+            android:drawableTop="@drawable/tab_news_center_selector"
+            style="@style/SmartBJTabStyle"
+            android:text="@string/xwzx"/>
+        <RadioButton
+            android:id="@+id/tab_smart_service"
+            android:drawableTop="@drawable/tab_smart_service_selector"
+            style="@style/SmartBJTabStyle"
+            android:text="@string/zhfw"/>
+        <RadioButton
+            android:id="@+id/tab_gov_affairs"
+            android:drawableTop="@drawable/tab_home_selector"
+            style="@style/SmartBJTabStyle"
+            android:text="@string/zw"/>
+        <RadioButton
+            android:id="@+id/tab_settings"
+            android:drawableTop="@drawable/tab_home_selector"
+            style="@style/SmartBJTabStyle"
+            android:text="@string/szzx"/>
+    </RadioGroup>
+</LinearLayout>

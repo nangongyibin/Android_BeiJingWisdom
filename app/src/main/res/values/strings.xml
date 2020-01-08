@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">智慧北京</string>
+    <string name="ljty">立即体验</string>
+    <string name="sy">首页</string>
+    <string name="xwzx">新闻中心</string>
+    <string name="zhfw">智慧服务</string>
+    <string name="zw">政务</string>
+    <string name="szzx">设置中心</string>
+</resources>
